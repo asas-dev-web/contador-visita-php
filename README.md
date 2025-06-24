@@ -2,7 +2,7 @@
   <h1>Contador de Visitas em PHP</h1>  
 
   <p>
-    <a href="https://asasdev.com.br/contador_visita/" target="_blank">
+    <a href="https://asasdev.com.br/contador_visita/">
       <img src="https://img.shields.io/badge/Site%20Demonstra%C3%A7%C3%A3o-Acessar-0d6efd?style=for-the-badge" alt="Site Demonstração">
     </a>
   </p>
